@@ -1,7 +1,5 @@
 # Franka Production 3: Setup Guide
 
-**Disclaimer:** This guide provides a structured overview for setting up the Franka Production 3 robot based on the official Product Manual (R02110, Version 1.1, Sept 2024). **It is NOT a replacement for the full official manual, proper safety training, or a thorough application-specific risk assessment.** Always refer to the complete official documentation and ensure all personnel are adequately trained before proceeding.
-
 **Document Reference:** R02110 / 1.1 / EN (September 2024)
 **Official Manuals:** [www.franka.de/documents](http://www.franka.de/documents)
 
